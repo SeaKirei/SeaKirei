@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeaKirei
-- 👀 I’m interested in Object Oriented Programming
-- 🌱 I’m currently learning Java
+- 👀 I’m interested in Cybersecurity
+- 🌱 I’m currently learning x86 Assembly
 - 📫 Reach me through DM
 
 <!---
