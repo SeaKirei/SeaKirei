@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeaKirei
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning x86 Assembly
+- 🌱 I’m currently learning Laravel!
 - 📫 Reach me through DM
 
 <!---
